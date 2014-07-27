@@ -1,7 +1,7 @@
 # Codebook
 ========================================================
 
-This codebook describes the variables, the data, and any transformations or work that were performed to clean up the data. The codebook describes the data and variables from tidy dataset and then the raw dataset.
+This codebook describes the variables, the data, and any transformations or work that were performed to clean up the data. The codebook describes the data and variables from raw dataset and then the tidy dataset.
 ------------------------------------------------------------------------------------
 ## RAW DATASET
 ------------------------------------------------------------------------------------
